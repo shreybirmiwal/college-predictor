@@ -1,1 +1,0 @@
-# asdrp-predict-college
