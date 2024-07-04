@@ -1,0 +1,6 @@
+1. data dump:
+https://www.reddit.com/r/pushshift/comments/1akrhg3/separate_dump_files_for_the_top_40k_subreddits/
+https://academictorrents.com/details/56aa49f9653ba545f48df2e33679f014d2829c10
+
+2. extract data into csv:
+https://github.com/Watchful1/PushshiftDumps/blob/master/scripts/to_csv.py
