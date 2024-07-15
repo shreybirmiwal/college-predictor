@@ -2,7 +2,7 @@ import json
 import csv
 
 input_file_path = 'r_collegeresults_posts.jsonl'
-output_file_path = 'output.csv'
+output_file_path = 'out-dump.csv'
 
 with open(output_file_path, 'w', newline='', encoding='utf-8') as csvfile:
     csv_writer = csv.writer(csvfile)
