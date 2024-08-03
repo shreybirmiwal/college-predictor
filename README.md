@@ -107,7 +107,9 @@ Notice in the image above Caltech correlation matrix shows a 30% correlation bet
 
 ### #4 Higher income means better college outcomes
 
-Take another look at the correlation matrix from #3. 
+![image](https://github.com/user-attachments/assets/e16d4330-cad4-43a7-92c4-4700ccbda475)
+
+Take a look at the correlation matrix from TAMU. 
 Income was:
 * correlated 29% with better essays,
 * correlated 15% with better extracurriculars
