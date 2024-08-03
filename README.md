@@ -90,7 +90,7 @@ Furthermore, after a certain point (SAT above ~1500), it does not matter. A 1520
 
 ### #2 The ivies care about hooks
 
-The graph below shows the log inverse of the p-value of a chi-squared test between hooks and decision
+The graph below shows the log inverse of the p-value of a chi-squared test between hooks (legacy, minorities, etc) and decision
 
 ![image](https://github.com/user-attachments/assets/ec24a0ed-0cf8-4704-b038-5390d06cdd69)
 
